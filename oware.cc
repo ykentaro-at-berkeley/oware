@@ -444,7 +444,3 @@ int main() {
     return 0;
 }
 
-
-// Local Variables:
-// compile-command: "g++ -Wall -O0 -g -o oware `sdl-config --cflags --libs` -lSDL_image oware.cc images.o"
-// End:
